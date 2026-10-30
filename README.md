@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/FlerkenMind/whatnot-dark-mode/main/vinted-dark-mode.user.js"><img alt="Install Vinted Dark Mode" src="https://img.shields.io/badge/Install-Vinted%20Dark%20Mode-007782?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/FlerkenMind/vinted-dark-mode/main/vinted-dark-mode.user.js"><img alt="Install Vinted Dark Mode" src="https://img.shields.io/badge/Install-Vinted%20Dark%20Mode-007782?style=for-the-badge"></a>
   &nbsp;
-  <a href="https://raw.githubusercontent.com/FlerkenMind/whatnot-dark-mode/main/whatnot-dark-mode.user.js"><img alt="Install Whatnot Dark Mode" src="https://img.shields.io/badge/Install-Whatnot%20Dark%20Mode-FFC857?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/FlerkenMind/vinted-dark-mode/main/whatnot-dark-mode.user.js"><img alt="Install Whatnot Dark Mode" src="https://img.shields.io/badge/Install-Whatnot%20Dark%20Mode-FFC857?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <img alt="Userscript managers" src="https://img.shields.io/badge/works%20with-Tampermonkey%20%C2%B7%20Violentmonkey-0B1220?style=flat-square">
   <img alt="Browsers" src="https://img.shields.io/badge/browsers-Chrome%20%C2%B7%20Edge%20%C2%B7%20Firefox%20%C2%B7%20LibreWolf-0B1220?style=flat-square">
   <img alt="No tracking" src="https://img.shields.io/badge/tracking-none-34D399?style=flat-square">
-  <a href="https://github.com/FlerkenMind/whatnot-dark-mode/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=flat-square&color=FFC857"></a>
+  <a href="https://github.com/FlerkenMind/vinted-dark-mode/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/FlerkenMind/vinted-dark-mode?style=flat-square&color=FFC857"></a>
 </p>
 
 <p align="center">
@@ -176,7 +176,7 @@ Disable any other dark-mode extension (Dark Reader, "force dark" flags…) on th
 
 <br>
 
-Please [open an issue](https://github.com/FlerkenMind/whatnot-dark-mode/issues/new) with:
+Please [open an issue](https://github.com/FlerkenMind/vinted-dark-mode/issues/new) with:
 
 - the page URL (or what you were doing),
 - a screenshot,
@@ -252,7 +252,7 @@ Bug reports, screenshots and pull requests are welcome. If you add or change beh
 
 ## License
 
-Released under the [MIT License](FlerkenMind).
+Released under the [MIT License](LICENSE).
 
 > [!NOTE]
 > This project is **not affiliated with, endorsed by, or sponsored by Vinted or Whatnot**.
